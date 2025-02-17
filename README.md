@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h2 align="center"><samp>## Hi there 👋</samp></h2>
 
-<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
+<img align="center" alt="Coding" width="1000" src="https://github.com/BlueMoonHunt/BlueMoonHunt/blob/154fbb2bad612b9ac78a23859c1a07f44ec3bc2f/robo_codes.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RevMax-Creator&style=plastic&color=orange&base=1500&abbreviated=true" alt="sugith10" /> </p>
 
