@@ -133,6 +133,10 @@ Here are some ideas to get you started:
       <br>Github
     </td>
     <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=gitlab" alt="icon" width="45" height="45" />
+      <br>GitLab
+    </td>
+    <td align="center" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linu" />
       <br>Linux
     </td>
