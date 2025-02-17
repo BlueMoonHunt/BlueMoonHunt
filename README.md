@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 <img align="center" alt="Coding" width="1000" src="https://github.com/BlueMoonHunt/BlueMoonHunt/blob/154fbb2bad612b9ac78a23859c1a07f44ec3bc2f/robo_codes.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RevMax-Creator&style=plastic&color=orange&base=1500&abbreviated=true" alt="sugith10" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BlueMoonHunt&style=plastic&color=orange&base=1500&abbreviated=true" alt="sugith10" /> </p>
 
 <div style="margin-bottom: 200px;"></div>
 <!--
 <samp>- 📫 Reach me at linked link in future</samp>
 -->
-<samp>- 📫 Reach me at ZettaByte@tuta.io</samp>
+<samp>- 📫 Reach me at hkumar.bluemoonhunt@gmail.com</samp>
 
 <samp>- ⌨️ Fun fact: I spend every day! thinking of new business 💻</samp>
 
