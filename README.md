@@ -33,8 +33,10 @@ Here are some ideas to get you started:
 <table align="center">
   <tr>
    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=linkedin" href="https://www.linkedin.com/in/himanshu-kumar-aa449528a" alt="icon" width="45" height="45" />
+     <a  href="https://www.linkedin.com/in/himanshu-kumar-aa449528a" >
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="45" height="45" />
       <br>Linkedin
+     </a>
     </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="SQ Lite" />
