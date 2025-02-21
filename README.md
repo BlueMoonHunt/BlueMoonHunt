@@ -172,7 +172,11 @@
   <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=godot" width="48" height="48" alt="VsCode" />
       <br>Godot
-    </td>
+      </td>
+   <td align="center" width="100">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Gimp-wilber-scalable.svg/120px-Gimp-wilber-scalable.svg.png" width="48" height="48" alt="VsCode" />
+      <br>GIMP
+      </td>
  </tr>
 <tr>
   <td align="center" width="100">
