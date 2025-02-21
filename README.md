@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <table align="center">
   <tr>
    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=linkedin" href="https://www.linkedin.com/in/himanshu-kumar-aa449528a" alt="icon" width="45" height="45" />
       <br>Linkedin
     </td>
       <td align="center" width="100">
