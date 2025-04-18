@@ -5,7 +5,7 @@
 <img align="center" alt="Coding" width="1000" src="https://github.com/BlueMoonHunt/BlueMoonHunt/blob/154fbb2bad612b9ac78a23859c1a07f44ec3bc2f/robo_codes.gif">
 
 <p align="center">
-    I'm Himanshu, a passionate developer driven by the desire to turn innovative ideas into reality. Currently, I'm working on a new project VICA on gitlab. 
+    I'm Himanshu, a passionate developer driven by the desire to turn innovative ideas into reality. Currently, I'm working on a new project redmoon on github. 
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BlueMoonHunt&style=plastic&color=orange&base=1500&abbreviated=true" alt="sugith10" /> </p>
