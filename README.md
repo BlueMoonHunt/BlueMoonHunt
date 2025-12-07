@@ -212,15 +212,3 @@
 </table>
 <br><br>
 </div>
-
-<h3 align="center"><samp>📟 GitHub Stats</samp></h3>
-<div style="display: flex; justify-content: space-between; align-items: stretch;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BlueMoonHunt&show_icons=true&locale=en&layout=compact&theme=dracula" alt="BlueMoonHunt Top Languages" width="48%" height="200" style="object-fit: cover;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=BlueMoonHunt&show_icons=true&locale=en&layout=compact&theme=dracula" alt="BlueMoonHunt Top Languages" width="48%" height="200" style="object-fit: cover;"/>
-</div>
-
-<div style="margin-bottom: 60px;"></div>
-<h3 align="center"><samp>✍️Random Dev Quote</samp></h3>
-    <div style="display: flex; justify-content:center; align-items: center;">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" />
-    </div>
